@@ -9,6 +9,7 @@
     "dev:server": "nodemon index.js"
   },
   "dependencies": {
+    "chalk": "4.1.2",
     "express": "^4.17.2"
   },
   "devDependencies": {
