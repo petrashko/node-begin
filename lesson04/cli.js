@@ -1,7 +1,7 @@
 const os = require('os');
 const path = require('path');
 const fs = require('fs');
-//
+
 const fileName = 'log.txt';
 const filePath = path.join(__dirname, fileName);
 
